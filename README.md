@@ -9,3 +9,7 @@ How to Play:
 3. Open Roll a Ball folder
 4. Open Builds folder
 5. Open Roll a Ball.exe 
+
+
+Controls:
+Use arrow keys to control ball
